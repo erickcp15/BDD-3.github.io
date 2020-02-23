@@ -9,8 +9,12 @@ https://github.com/erickcp15/Beer-Drinkers-Delight
 * These show the percentage of breweries in the United States
 * The first pie chart displays the percentage of breweries in the United States
   * Showing Micro as the more than half the breweries in the United States
-* The seconf pie chart displays the percentage of breweries per state in the Unites States
+* The second pie chart displays the percentage of breweries per state in the Unites States
   * Showed that California acounted for a tenth of the breweries
   * California was also double the next closest state in Colorado
 
 ### https://erickcp15.github.io/BDD-3.github.io/
+
+![](Images/Pie1.png)
+
+![](Images/Pie2.png)
